@@ -11,3 +11,5 @@ Built a Power BI dashboard for Supply Chain Analytics using Excel data and Power
 • Created visually compelling dashboards featuring key performance indicators (KPIs), geographic information, pie charts, and cluster charts to provide comprehensive analytics and facilitate decision-making in the supply chain domain, including insights into inventory levels in warehouse management.
 
 ![image](https://github.com/SaneelTare/Supply-Chain-Analytics/assets/90349506/8a643ba6-2452-40c8-be6b-a9806c192e80)
+
+Disclaimer: Please note, I've uploaded screenshots of the file on Git to provide a visual representation. Unfortunately, due to the file being stored exclusively on my local machine, I am unable to share the complete Power BI pbix file. The screenshot serve as a glimpse of the content, considering the efforts invested in its creation.
